@@ -65,7 +65,7 @@ export const ContactSection = () => {
           {/* Social Links */}
           <div className="flex justify-center gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/12-himanshu"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 rounded-full border border-border bg-card/50 text-muted-foreground hover:text-foreground hover:border-primary/50 transition-all"
@@ -74,7 +74,7 @@ export const ContactSection = () => {
               <span className="font-medium">GitHub</span>
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/himanshu-charak-96a410292/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 rounded-full border border-border bg-card/50 text-muted-foreground hover:text-foreground hover:border-primary/50 transition-all"
