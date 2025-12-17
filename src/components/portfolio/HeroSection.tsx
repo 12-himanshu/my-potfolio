@@ -101,7 +101,7 @@ export const HeroSection = () => {
               <Phone className="w-5 h-5" />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/12-himanshu"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-border bg-card/50 text-muted-foreground hover:text-primary hover:border-primary/50 transition-all"
@@ -110,7 +110,7 @@ export const HeroSection = () => {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/himanshu-charak-96a410292/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-border bg-card/50 text-muted-foreground hover:text-primary hover:border-primary/50 transition-all"
